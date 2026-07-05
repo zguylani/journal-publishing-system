@@ -1,0 +1,6 @@
+prompts_to_paste/
+ai_json_results/
+output/
+app_log.txt
+__pycache__/
+*.pyc
